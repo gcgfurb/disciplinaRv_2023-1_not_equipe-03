@@ -5,8 +5,12 @@ Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.
 
 Alunos:  
 
-- Computação:  
-- Pedagogia:  
+    Alexandre Rosa Liermann  
+    Gabriel Ossamu Ropelatto Mori  
+    Gabriel Pietro Zandona  
+    Gabriel Theindl Dallarosa  
+    Giancarlo Cavalli  
+    Thomas Michels Rodrigues  
 
 Assunto:  
 
