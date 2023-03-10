@@ -4,23 +4,20 @@ Local para postar a atividade da unidade 1.
 
 ## Avaliação
 
-### Trabalho Correlato 1
+[Atividade1_slides](Atividade1_Grupo_slides.pdf)
 
-Acadêmico:  
-Comentários:  
+### Waze
 
--  
+- na minha opinião o melhor navegador de mapas  
+- Meu TCC: gosto de sistemas de navegação  
 
-### Trabalho Correlato 2
+### Pokémon Go  
 
-Acadêmico:  
-Comentários:  
+- mapa da FURB: cadastro TCC  
+- [Google InDoor](https://www.google.com/intl/pt-BR/maps/about/partners/indoormaps/)  
+- [TCC Marcus Pitz](https://www.furb.br/dsc/arquivos/tccs/monografias/2015_1_marcus-vinicius-pitz_monografia.pdf)  
+  
+### Google Glass
 
--  
-
-### Trabalho Correlato 3
-
-Acadêmico:  
-Comentários:  
-
--  
+- eu USEI :-) .. não sou parâmetro, mas eu usaria no dia a dia  
+- modelo mais antigo do vídeo  
